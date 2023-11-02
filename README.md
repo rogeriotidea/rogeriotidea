@@ -1,25 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17788
-Fork on GitHub
-5220
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Rogerio Coelho</h1>
 <h3 align="center">A Full Stack developer from Rio de Janeiro / Brazil.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rogeriotidea&label=Profile%20views&color=0e75b6&style=flat" alt="rogeriotidea" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rogeriotidea" alt="rogeriotidea" /></a> </p>
 
 - 🌱 I’m currently learning **Go, Node Js, IA, Machine Learning with Python**
 
@@ -29,6 +9,7 @@ preview
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rogério-coelho-543b2811/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rogério-coelho-543b2811/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,30 +20,3 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rogeriotidea&show_icons=true&locale=en" alt="rogeriotidea" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rogeriotidea&" alt="rogeriotidea" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
-
-![Rogerio Tidea's GitHub stats](https://stats-sigma-nine.vercel.app/api?username=rogeriotidea&show_icons=true&count_private=true)

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rogerio Coelho</h1>
 <h3 align="center">A Full Stack developer from Rio de Janeiro / Brazil.</h3>
 
-- 🌱 I’m currently learning **Go, Node Js, IA, Machine Learning with Python**
+- 🌱 I’m currently learning Node Js, IA, Machine Learning with Pytho
 
 - 💬 Ask me about **react, php, react native, ios, android**
 
